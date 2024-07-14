@@ -31,8 +31,7 @@
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="20" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"
-  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="20" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
 </div>
@@ -57,9 +56,9 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetoguzozkan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="120" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=mehmetoguzozkan&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" height="120" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetoguzozkan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false" height="120" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetoguzozkan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="175" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=mehmetoguzozkan&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" height="175" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetoguzozkan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false" height="175" alt="languages graph"  />
 </div>
 
 ###
