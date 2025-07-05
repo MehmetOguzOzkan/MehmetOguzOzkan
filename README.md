@@ -10,112 +10,112 @@
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"
     alt="csharp logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
   <img width="20" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"
     alt=".NET Core logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
   <img width="20" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
     alt="java logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
   <img width="20" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"
     alt="spring logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
   <img width="20" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
     alt="microsoftsqlserver logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
   <img width="20" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
     alt="mysql logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
   <img width="20" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
     alt="postgresql logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
   <img width="20" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
     alt="javascript logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
   <img width="20" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
     alt="react logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
   <img width="20" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
     alt="python logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
   <img width="20" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg"
     alt="fastapi logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
   <img width="20" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
     alt="html5 logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
   <img width="20" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
     alt="css3 logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
   <img width="20" />
   <img
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg"
     alt="bootstrap logo"
-    width="40"
-    height="60"
+    width="60"
+    height="40"
     style="max-width: none;"
   />
 </div>
@@ -125,10 +125,10 @@
 
 <div align="left">
   <a href="mehmetouz9921@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="60" width="90" style="max-width: none;" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="40" width="90" style="max-width: none;" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/mehmet-oğuz-özkan-774402211" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="60" width="90" style="max-width: none;" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" width="90" style="max-width: none;" alt="linkedin logo"  />
   </a>
 </div>
 
