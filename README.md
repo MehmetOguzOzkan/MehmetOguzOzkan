@@ -1,4 +1,3 @@
-@@ -1,70 +1,70 @@
 <h2 align="center">Hi 👋, I'm Mehmet Oğuz Özkan a software developer from Turkey</h2>
 
 ###
