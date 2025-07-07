@@ -125,10 +125,10 @@
 
 <div align="left">
   <a href="mehmetouz9921@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="90" width="120" style="max-width: none;" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="90" style="max-width: none;" alt="gmail logo"  />
   </a>
   <a href="www.linkedin.com/in/mehmet-oğuz-özkan-774402211" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="90" width="120" style="max-width: none;" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="90" style="max-width: none;" alt="linkedin logo"  />
   </a>
 </div>
 
