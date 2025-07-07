@@ -135,7 +135,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=mehmetoguzozkan&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="250" alt="trophy graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=mehmetoguzozkan&theme=nord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="250" style="margin-top:40" alt="trophy graph"  />
 </div>
 
 ###
