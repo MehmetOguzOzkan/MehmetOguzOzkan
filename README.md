@@ -141,7 +141,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mehmetoguzozkan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="175" width="350" style="max-width: none;" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=mehmetoguzozkan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=shades-of-purple&locale=en&hide_border=false" height="175" width="400" style="max-width: none;" alt="stats graph"  />
   <!-- <img src="https://streak-stats.demolab.com?user=mehmetoguzozkan&locale=en&mode=daily&theme=shades-of-purple&hide_border=false&border_radius=5" height="175" alt="streak graph"  /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mehmetoguzozkan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=shades-of-purple&hide_border=false" height="175" width="300" style="max-width: none;" alt="languages graph"  />
 </div>
